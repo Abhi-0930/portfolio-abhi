@@ -4,7 +4,7 @@ import project1 from './assets/Project1.png'
 import project2 from './assets/Project2.jpg'
 import project3 from './assets/Project3.png'
 import project4 from './assets/Project4.png'
-import resume from './assets/Resume.pdf'
+import resume from './assets/MyResume.pdf'
 import myimg from './assets/myimg.png'
 
 // Hero Section Component
